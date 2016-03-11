@@ -1,7 +1,7 @@
 ﻿{
 	"name": "city jumper",
 	"short_name": "city jumper",
-	"start_url": "index.html",
+	"start_url": "cj.html",
 	"display": "fullscreen",
 	"orientation": "any",
 	"icons": [{
